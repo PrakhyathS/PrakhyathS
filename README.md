@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [www.resumelink.com](www.resumelink.com)
 
+Let's get started "say hi" or connect with me! 👇
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prakhyath-shivappa-298423149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhyath shivappa" height="30" width="40" /></a>
