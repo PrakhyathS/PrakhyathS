@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhyath Shivappa</h1>
-<h3 align="center">Passionate Financial Mathematics</h3>
+<h3 align="center">Passionate Financial Engineer</h3>
 <p style="text-align: center;">
     <img src="https://png.pngtree.com/thumb_back/fw800/background/20231019/pngtree-trading-screens-setup-background-image_13942247.jpg" alt="My image" style="max-width: 100%; height: auto;">
 </p>
